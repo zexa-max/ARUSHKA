@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/13afb9ee5c5da17930f1e.png">
+  <img src="https://github.com/btw-stark/SHAGUN/blob/1721dfd54cce6f82f7e54a6d5679a717b951341f/shagun.jpg">
 </p>
 
 
