@@ -3,7 +3,7 @@
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝚃𝚁𝙰𝙽𝙶𝙴𝚁+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥)](https://github.com/SHIVANSH475/SHIVANSH-MUSIC)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝙷𝙰𝙶𝚄𝙽+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+STARK)](https://github.com/btw-stark/STARK)
 
 
 
@@ -20,13 +20,13 @@
 👉🏻 ʜᴇʏ ɢᴜʏ's, ᴅᴏɴ'ᴛ ᴜsᴇ ʏᴏᴜʀ ʀᴇᴀʟ ɪ'ᴅ sᴇssɪᴏɴ ᴀs ᴀ ᴀssɪsᴛᴀɴᴛ ʙᴄᴏᴢ ᴛʜᴇ ᴀssɪsᴛᴀɴᴛ ᴡɪʟʟ ʟᴇᴀᴠᴇ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘs & ᴄʜᴀɴɴᴇʟs.ᴜ  ᴍɪɢʜᴛ ʟᴏᴏsᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘs ᴏᴡɴᴇʀsʜɪᴘ ᴀɴᴅ ᴀᴅᴍɪɴsʜɪᴘ 🥺 sᴏ ᴜsᴇ ʏᴏᴜʀ ᴀɴʏ ᴏᴛʜᴇʀ ɪ'ᴅ sᴇssɪᴏɴ 👈🏻
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
+<!--
 ## 🖇 Generating Pyrogram String Session
 
 <p>
 <a href="https://t.me/StringSesssionGeneratorRobot-Gen"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 <a href="https://t.me/Itz_SapnaMusicbot-Gen"><img src="https://img.shields.io/badge/SAPNA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-
+-->
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
@@ -40,10 +40,7 @@
 
 
 <p align="center">
-<a href="https://telegram.me/SHIVANSHDEVS"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-<p align="center">
-<a href="https://telegram.me/ITSZ_SHIVANSH"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗨𝗞𝗟𝗔%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ur_StaRk"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗧𝗔𝗥𝗞%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
