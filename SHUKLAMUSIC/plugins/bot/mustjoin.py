@@ -6,7 +6,7 @@ from SHUKLAMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "aspirantDiscuss"
+MUST_JOIN = "sr7_blackbird"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
