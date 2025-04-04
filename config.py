@@ -7,14 +7,14 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID", "266961"))
-API_HASH = getenv("API_HASH", "fcc58560bc9f5ebc9c4207b3d26f2d")
-BOT_USERNAME = "@Spacexmusicbot"
+API_ID = int(getenv("API_ID", "27903526"))
+API_HASH = getenv("API_HASH", "34f58558a9b72175e378793462cda909")
+BOT_USERNAME = "@ShagunMusicbot"
 # Get your token from @BotFather on Telegram.main
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "7646281973:AAE20ZK8-LHjsWMGvsfdUPY2tdCXOzKXOGU")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", "")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://sr7blackbirds:5mRE2CGlkCXmI5pL@cluster0.jsssmx8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 200))
 
@@ -22,8 +22,8 @@ SERVER_PLAYLIST_LIMIT = 300  # Set your desired limit here
 
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002488347583))
-OWNER_ID = int(getenv("OWNER_ID", 1094941160))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002540021894))
+OWNER_ID = int(getenv("OWNER_ID", 1716902346))
 
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
@@ -53,8 +53,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/HONEYSUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/HONEYSUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SR7_BLACKBIRD")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BINDAAS_BUDDIES")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
