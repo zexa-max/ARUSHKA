@@ -88,7 +88,7 @@ async def whispes_cb(_, query):
         except Unauthorized:
             pass
         
-        return await query.answer("This whisper is not for you 🚧", show_alert=True)
+        return await query.answer("Hehe, kitne gande log ho, dusro ke wishper dekhte !🙃", show_alert=True)
     
     search_msg = f"{from_user}_{to_user}"
     
@@ -110,8 +110,8 @@ async def in_help():
     answers = [
         InlineQueryResultArticle(
             title="💒 Whisper",
-            description=f"@Honeymusics_bot [USERNAME | ID] [TEXT]",
-            input_message_content=InputTextMessageContent(f"**📍Usage:**\n\n@Honeymusics_bot (Target Username or ID) (Your Message).\n\n**Example:**\n@Honeymusics_bot @username I Wanna Phuck You"),
+            description=f"@ShagunMusicBot [USERNAME | ID] [TEXT]",
+            input_message_content=InputTextMessageContent(f"**📍Usage:**\n\n@shagunmusicsbot (Target Username or ID) (Your Message).\n\n**Example:**\n@shagunmusicbot @username hello there 👀"),
             thumb_url="https://te.legra.ph/file/3eec679156a393c6a1053.jpg",
             reply_markup=switch_btn
         )
