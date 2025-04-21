@@ -4,7 +4,7 @@ from pyrogram.types import Message
 from pyrogram.enums import ChatAction, ParseMode
 from pyrogram import filters
 
-API_KEY = "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"
+API_KEY = "62152c3c83c0e23c52d4478fbb105491e72dc21d12d1fdbec294658a5494b15e"
 
 BASE_URL = "https://api.together.xyz/v1/chat/completions"
 
