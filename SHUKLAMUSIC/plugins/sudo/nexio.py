@@ -71,7 +71,7 @@ async def restriction_app(app :app, message):
                     await message.reply(random.choice(strict_txt))          
                 else:
                     await app.ban_chat_member(chat_id, user_id)
-                    await message.reply("Ottey sir, jo hukum aapki ban kar diya usko 😁!")
+                    await message.reply("HUH!, ban kar diya usko 😁!")
                     
         for unbanned in data:
             print(f"present {unbanned}")
@@ -99,7 +99,7 @@ async def restriction_app(app :app, message):
                 else:
                     permissions = ChatPermissions(can_send_messages=False)
                     await message.chat.restrict_member(user_id, permissions)
-                    await message.reply(f"mute kr dea ! faltu logo ko.") 
+                    await message.reply(f"hehe! muteed successfully.") 
                     
         for unmuted in data:
             print(f"present {unmuted}")            
