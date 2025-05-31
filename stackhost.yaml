@@ -9,8 +9,7 @@ commands:
   build:
     - "pip install -r requirements.txt"
 
-  package:
-    - "echo Packaging not required"
+  
 
   start:
     - "python3 -m SHUKLAMUSIC"  # ✅ Updated to match your bot's entry point
