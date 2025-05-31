@@ -1,0 +1,19 @@
+user:
+  name: zexa-max
+  github: zexa-max
+
+language: "python"
+python_version: "3.10"  # ✅ Use 3.10 or 3.11 (3.13 is too new & may not be supported)
+
+commands:
+  build:
+    - "pip install -r requirements.txt"
+
+  package:
+    - "echo Packaging not required"
+
+  start:
+    - "python3 -m SHUKLAMUSIC"  # ✅ Updated to match your bot's entry point
+
+env:
+  - "ENVIRONMENT=production"
